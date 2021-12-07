@@ -1,7 +1,8 @@
 import React from "react";
 
 function User() {
-  return <div>Map users here!</div>;
+  const user = "Max";
+  return <div>{user}</div>;
 }
 
 export default User;
